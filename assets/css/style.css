@@ -403,7 +403,7 @@ color: #777;
   left: 0;
   padding-block: 20px;
   z-index: 4;
-  background-color: var(--white);
+  background-color: #DFDFDF;
   box-shadow: var(--shadow-1);
 }
 
@@ -419,7 +419,7 @@ color: #777;
 }
 
 .logo {
-  color: var(--ultramarine-blue);
+  color: #000;
   font-size: 2.4rem;
   font-weight: var(--fw-800);
 }
