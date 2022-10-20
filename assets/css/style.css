@@ -1515,3 +1515,9 @@ color: #777;
   .footer-top { padding-block: 120px 80px; }
 
 }
+@media screen and (max-width: 768px){
+  .logo {
+    color: var(--ultramarine-blue);
+    font-size: 2rem;
+  }
+}
